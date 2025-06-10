@@ -15,7 +15,7 @@ const orderQueryParam: QueryParam = {
 
 const samehadakuInfo: AnimeSource = {
   title: "Samehadaku",
-  baseUrl: baseUrl.samehadaku,
+  baseUrl: "samehadaku.now",
   baseUrlPath: "/samehadaku",
   message: "🔥🔥",
   ok: true,
